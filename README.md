@@ -82,7 +82,7 @@ Sensor data is transmitted via BLE to the MYOSA Android application for real-tim
 ### **4. Local Display and Alerts**
 Sensor values are displayed on an OLED screen and alerts are generated when thresholds are exceeded.
 
-### **5. Control Flow Description
+### **5. Control Flow Description**
 
 The MYOSA-based warehouse monitoring system follows a multi-sensor decision-driven control flow to ensure reliable detection of hazards such as fire, gas leakage, and intrusion.
 
@@ -143,4 +143,5 @@ This multi-sensor, decision-based control flow enhances system reliability by av
 * iot2.jpeg
 * fire-extinguisher.mp4
 * gas-ventilation.mp4
+
 
